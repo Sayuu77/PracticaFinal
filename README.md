@@ -3,6 +3,7 @@ API REST en Java
 
 Integrantes:
 Santiago Sánchez Carvajal
+
 Sara Gómez López
 
 Descripción de la práctica final:
